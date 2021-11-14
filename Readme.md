@@ -4,7 +4,7 @@ This repo is used for getting data and sensors values from running GPU-Z utility
 
 **Running GPU-Z is required** while using this code.
 
-###Example of usage
+### Example of usage
 
 ```go
 package main
